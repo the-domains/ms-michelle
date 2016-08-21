@@ -1,0 +1,28 @@
+name: Ms Michelle
+favicon: null
+layout_spectrum: 0.02817
+typography_spectrum: 0.4989
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9244102470111102
+  lightness: 0.31349960970692337
+  saturation: 0.5118692987598479
+  rhythmicContrast: 0.8513623212929815
+purpose: []
